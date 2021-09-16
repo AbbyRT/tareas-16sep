@@ -337,6 +337,18 @@ body{
     border-radius: 20px;
     border-color: transparent;
 }
+.minit{
+    position: absolute;
+    width: 291px;
+    height: 15px;
+    left: 918px;
+    top: 3410px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: rgba(0, 0, 0, 0.42);
+
+}
 .minia{
     left: 750px;
 
