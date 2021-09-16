@@ -1,0 +1,25 @@
+.contenedor{
+    background-color:rgba(254,98,76,255);
+    font-family: 'Mukta', sans-serif;
+    font-size: 120px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 75vh;
+    width: 75vw;
+    row-gap: 5px;
+    column-gap: 12px;
+    justify-content: flex-start;
+    align-content:space-around;
+    align-items: flex-start;
+
+}
+.item{
+    background-color:rgba(0,156,197,255);
+    color: white;
+    width: 22%;
+    height:46%;   
+    /* row-gap:  20px; 
+    flex-wrap: 10px; */
+}

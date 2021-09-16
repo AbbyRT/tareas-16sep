@@ -1,0 +1,1 @@
+Primera versión de las tareas, faltan algunos detalles y mejorar la estructura del código :(
